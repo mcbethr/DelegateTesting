@@ -1,0 +1,15 @@
+/home/ryanmcbeth/DelegateTesting/bin/Debug/net6.0/DelegateTesting
+/home/ryanmcbeth/DelegateTesting/bin/Debug/net6.0/DelegateTesting.deps.json
+/home/ryanmcbeth/DelegateTesting/bin/Debug/net6.0/DelegateTesting.runtimeconfig.json
+/home/ryanmcbeth/DelegateTesting/bin/Debug/net6.0/DelegateTesting.dll
+/home/ryanmcbeth/DelegateTesting/bin/Debug/net6.0/DelegateTesting.pdb
+/home/ryanmcbeth/DelegateTesting/obj/Debug/net6.0/DelegateTesting.csproj.AssemblyReference.cache
+/home/ryanmcbeth/DelegateTesting/obj/Debug/net6.0/DelegateTesting.GeneratedMSBuildEditorConfig.editorconfig
+/home/ryanmcbeth/DelegateTesting/obj/Debug/net6.0/DelegateTesting.AssemblyInfoInputs.cache
+/home/ryanmcbeth/DelegateTesting/obj/Debug/net6.0/DelegateTesting.AssemblyInfo.cs
+/home/ryanmcbeth/DelegateTesting/obj/Debug/net6.0/DelegateTesting.csproj.CoreCompileInputs.cache
+/home/ryanmcbeth/DelegateTesting/obj/Debug/net6.0/DelegateTesting.dll
+/home/ryanmcbeth/DelegateTesting/obj/Debug/net6.0/refint/DelegateTesting.dll
+/home/ryanmcbeth/DelegateTesting/obj/Debug/net6.0/DelegateTesting.pdb
+/home/ryanmcbeth/DelegateTesting/obj/Debug/net6.0/DelegateTesting.genruntimeconfig.cache
+/home/ryanmcbeth/DelegateTesting/obj/Debug/net6.0/ref/DelegateTesting.dll
